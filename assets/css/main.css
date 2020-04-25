@@ -1023,6 +1023,8 @@ body.is-preload-1 #main {
 /* Header */
 
 #header {
+    background-image: url(./background.jpg);
+    background-size: cover;
     padding: 3em 2.25em 1.75em 2.25em;
 }
 
@@ -1035,6 +1037,9 @@ body.is-preload-1 #main {
 /* Footer */
 
 #footer {
+    background-image: url(./background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
     padding: 2.25em 2.25em 1em 2.25em;
 }
 
@@ -1058,6 +1063,9 @@ body.is-preload-1 #main {
 /* Thumbnails */
 
 #thumbnails {
+    background-image: url(./background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
     display: -moz-flex;
     display: -webkit-flex;
     display: -ms-flex;
